@@ -1,0 +1,51 @@
+ul{
+    
+    display: flex;
+ 
+    
+}
+li{
+  margin-left: 2em;
+  list-style-type: none;
+
+}
+
+a{
+ text-decoration: none;
+}
+
+li:hover{
+    color: rgb(98, 246, 25);
+
+}
+li a:hover{
+    color: rgb(98, 246, 25);
+
+}
+/* breadcrumbs*/
+ol{
+ 
+    display: flex;
+}
+/* 5*/
+.fiche{
+    margin: 5px;
+   width: 200PX;
+    border: 2PX solid greenyellow;
+
+
+}
+.lesFiche{
+    display: flex;
+}
+.youSaving{
+color: green;
+}
+section{
+    margin: 10px;
+}
+
+.logo{
+    width: 70px;
+    height: 70PX;
+}
