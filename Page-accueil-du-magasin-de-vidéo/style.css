@@ -22,4 +22,15 @@ ol{
  
     display: flex;
 }
+/* 5*/
+.lesFiche{
+    display: inline-flex;
+    border: 2PX solid greenyellow;
+
+
+}
+.youSaving{
+color: green;
+}
+
 
