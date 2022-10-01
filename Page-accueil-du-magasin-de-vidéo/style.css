@@ -45,3 +45,13 @@ section{
     width: 70px;
     height: 70PX;
 }
+.footerlogo{
+margin-top: 10em;
+    width: 35PX;
+    border: 2px solid black;
+}
+.footer_paragraph{ 
+     border: 2px solid black;
+display: inline-block;
+
+}
