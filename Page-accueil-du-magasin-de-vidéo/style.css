@@ -1,5 +1,13 @@
+header{
+    background-color: rgb(255, 245, 47);
+    height: 4.5em;
+}
+
 ul{
-    
+ position: relative;
+bottom: 4em;
+    margin-left: 2em;
+  
     display: flex;
 
 }
@@ -24,18 +32,35 @@ ol{
 }
 /* 5*/
 .fiche{
+
     margin: 5px;
    width: 200PX;
     border: 2PX solid greenyellow;
 
 
 }
+.fiche>img{
+    text-align: center;
+
+}
 .lesFiche{
+    text-align: center;
     display: flex;
 }
 p{
+    
     margin: 0;
+    margin-left: 5px;
     display: inline-block;
+}
+.ficheParagraph{
+    text-align: left;
+
+}
+.fiche image{
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 .youSaving{
 color: green;
@@ -45,6 +70,7 @@ section{
 }
 
 .logo{
+    display: inline-block;
     width: 70px;
     height: 70PX;
 }
