@@ -45,13 +45,21 @@ section{
     width: 70px;
     height: 70PX;
 }
-.footerlogo{
+.footerLogo{
 margin-top: 10em;
     width: 35PX;
-    border: 2px solid black;
-}
-.footer_paragraph{ 
-     border: 2px solid black;
-display: inline-block;
 
+}
+.footerParagraph{ 
+display: inline-block;
+position: relative;
+bottom: 20px;
+
+
+}
+.icon-facebook{
+    color: aqua;
+}
+span{
+    margin-left: 100px;
 }
