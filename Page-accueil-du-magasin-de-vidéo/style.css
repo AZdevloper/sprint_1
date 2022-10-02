@@ -1,8 +1,7 @@
 ul{
     
     display: flex;
- 
-    
+
 }
 li{
   margin-left: 2em;
@@ -33,6 +32,10 @@ ol{
 }
 .lesFiche{
     display: flex;
+}
+p{
+    margin: 0;
+    display: inline-block;
 }
 .youSaving{
 color: green;
